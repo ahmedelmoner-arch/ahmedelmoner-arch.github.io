@@ -17,3 +17,5 @@ Keep your local editing copy for future changes. The public page does not load v
 ## Updated visitor experience
 
 The public page now includes three case studies with direct links, an experience section, tool-to-project links, configured contact channels, and an embedded Arabic CV PDF. The Ushers and Shelves previews show their actual local interfaces with synthetic demo data; the in-progress analytics project's image is labeled as a visual concept.
+
+The personal portrait appears prominently in the opening section and contact page, with a responsive frame. Portrait delivery is bundled inside the standalone HTML.
