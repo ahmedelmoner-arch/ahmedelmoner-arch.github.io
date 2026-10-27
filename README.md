@@ -21,3 +21,5 @@ The public page now includes three case studies with direct links, an experience
 The personal portrait appears prominently in the opening section and contact page, with a responsive frame. Portrait delivery is bundled inside the standalone HTML.
 
 The approved logo is concept 01 (geometric AM), with `AHMED MOUNIR` in brilliant metallic gold. The transparent production asset is embedded in the header and footer and adapts to mobile widths.
+
+The skills section includes an AI-assisted analysis and development panel listing ChatGPT, Claude, Gemini, and Antigravity. These tools are also included in the downloadable CV skills list.
