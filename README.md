@@ -13,3 +13,7 @@ This repository contains the public visitor page. GitHub Pages publishes the roo
 5. Wait for the Pages deployment to finish. The same public URL will show the update.
 
 Keep your local editing copy for future changes. The public page does not load visitor-specific saved edits.
+
+## Updated visitor experience
+
+The public page now includes three case studies with direct links, an experience section, tool-to-project links, configured contact channels, and an embedded Arabic CV PDF. The Ushers and Shelves previews show their actual local interfaces with synthetic demo data; the in-progress analytics project's image is labeled as a visual concept.
